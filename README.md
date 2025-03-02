@@ -1,4 +1,4 @@
-# AWS Three Tier Web Architecture
+# Scalable Web Application with ALB and Auto Scaling
 
 ## Overview:
 
